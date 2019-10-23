@@ -41,7 +41,6 @@ pipeline {
 	}
 
 
-	}
 
         stage('stage 3') {
             steps {
